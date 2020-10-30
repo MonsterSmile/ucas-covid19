@@ -1,5 +1,5 @@
 # ucas-covid19
-国科大疫情防控每日填报助手，用于解决忘记填写企业微信中身体状况每日打卡的问题。（第一次出问题）
+国科大疫情防控每日填报助手，用于解决忘记填写企业微信中身体状况每日打卡的问题。（第一次出问 题）
 
 # 注意
 本人不对因为滥用此程序造成的后果负责，**请在合理且合法的范围内使用本程序**。
@@ -102,4 +102,4 @@ pause
 - 感谢 [HsimWong](https://github.com/IanSmith123/ucas-covid19/pull/3) 对文档的完善工作
 - 感谢 [spwpun](https://github.com/IanSmith123/ucas-covid19/pull/6) 添加了使用 windows 计划任务的操作步骤
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">知识共享署名-非商业性使用-相
+<a rel=
